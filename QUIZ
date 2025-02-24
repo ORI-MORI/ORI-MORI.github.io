@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>역사 퀴즈</title>
+</head>
+<body>
+    <div class="quiz-box">
+        <h2>역사 퀴즈</h2>
+        <p>기원전 1,200년경에 세워진 유럽에서 가장 오래된 나라 중 하나인 이 나라의 이름을 아시나요??</p>
+    </div>
+</body>
+</html>
